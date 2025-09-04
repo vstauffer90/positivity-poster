@@ -13,6 +13,7 @@ body {
 
 #image-1 { /* flower image */
     border:5px solid rgb(204, 110, 115);
+    border-radius: 50%;
     width: 100%;
 }
 
@@ -25,3 +26,4 @@ body {
 p {
     font-size: 2rem;
 }
+
