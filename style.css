@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(223, 178, 178);
+}
+
+/* Styling div that holds image, title, and text */
+.board {
+    width:50%;
+    margin-left:25%;
+    color: rgb(100, 8, 8); /* text color */
+    text-align:center;
+    font-family: caveat, sans-serif;;
+}
+
+#image-1 { /* flower image */
+    border:5px solid rgb(204, 110, 115);
+    width: 100%;
+}
+
+/* Text Styling */
+#title {
+    text-transform: uppercase;;
+}
+
+p {
+    font-size: 20px;
+}
